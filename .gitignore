@@ -1,0 +1,15 @@
+# Firmware binaries and archives (too large for GitHub)
+Firmware/
+
+# Service manuals (copyrighted)
+Manuals/
+
+# Failed decryption output
+firmware_unpacked/
+
+# Node
+node_modules/
+package-lock.json
+
+# macOS
+.DS_Store

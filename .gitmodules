@@ -1,0 +1,6 @@
+[submodule "Sony-PMCA-RE"]
+	path = Sony-PMCA-RE
+	url = https://github.com/ma1co/Sony-PMCA-RE.git
+[submodule "fwtool.py"]
+	path = fwtool.py
+	url = https://github.com/ma1co/fwtool.py.git
